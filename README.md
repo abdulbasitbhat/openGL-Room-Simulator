@@ -1,1 +1,1 @@
-# colorBW
+openGL Project Simulating a Room Environemnt having a Moving Gun to Control Lighting of the room by aiming and shooting at the Switch. It involves Various Computer Graphics Algorithms and Concepts like Bresenham Circle Drawing Algo, MidPoint Elipse Algo. Apart from this Concepts of Dual Buffering and timer functions are used for animation.
